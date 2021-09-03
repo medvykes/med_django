@@ -1,0 +1,9 @@
+{% extends "base_generic.html" %}
+
+{% block content %}
+    {% if speaker %}
+    <p>{{speaker.first_name}}</p>
+    <p>{{speaker.last_name}}</p>
+    <p>{{speaker.speaker_info}}</p>
+    {% endif %}
+{% endblock %}

@@ -1,0 +1,26 @@
+li a {
+    color: black;
+}
+#imgg {
+    background: white url("images/coat_of_arms.gif") no-repeat;
+    margin-top: 2px;
+    width: 600px;
+    height:500px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sidebar-nav{
+    margin-top: 20px;
+    list-style: none;
+}
+body{
+    background: white url("images/sky.png") no-repeat center;
+}
+li {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: white;
+}
